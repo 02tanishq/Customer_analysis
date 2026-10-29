@@ -221,7 +221,7 @@ Focus campaigns on:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/SURAJ-PRATAP07/Customer_Analysis.git
+git clone https://github.com/02tanishq/Customer_analysis.git
 ```
 
 ### Install Dependencies
@@ -272,12 +272,9 @@ Customer_Behavior_Dashboard.pbix
 
 ## 👨‍💻 Author
 
-**Suraj Pratap**
+**Tanishq Gupta**
 
-Chemical Engineering Student | Data Analytics Enthusiast | SQL • Python • Power BI
-
-LinkedIn: (https://www.linkedin.com/in/surajprata07/)
-GitHub: (https://github.com/SURAJ-PRATAP07/)
+Data Analytics Enthusiast | SQL • Python • Power BI
 
 ---
 
